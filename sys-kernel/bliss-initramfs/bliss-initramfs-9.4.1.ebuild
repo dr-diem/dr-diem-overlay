@@ -8,7 +8,7 @@ inherit python-single-r1
 
 DESCRIPTION="Boot your system's rootfs from Encrypted/OpenZFS."
 HOMEPAGE="https://github.com/dr-diem/bliss-initramfs"
-SRC_URI="https://github.com/dr-diem/${PN}/archive/${PV}.tar.gz -> ${P}.tar.gz"
+SRC_URI="https://github.com/dr-diem/${PN}/archive/refs/tags/v${PV}.tar.gz -> ${P}.tar.gz"
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 RESTRICT="strip"
