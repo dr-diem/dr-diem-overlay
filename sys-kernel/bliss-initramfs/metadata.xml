@@ -2,10 +2,10 @@
 <!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
 <pkgmetadata>
     <maintainer type="person">
-        <email>fearedbliss@gentoo.org</email>
-        <name>Jonathan Vasquez</name>
+        <email>iansilvester@fastmail.fm</email>
+        <name>Ian Silvester</name>
     </maintainer>
     <upstream>
-        <remote-id type="github">fearedbliss/bliss-initramfs</remote-id>
+        <remote-id type="github">dr-diem/bliss-initramfs</remote-id>
     </upstream>
 </pkgmetadata>
