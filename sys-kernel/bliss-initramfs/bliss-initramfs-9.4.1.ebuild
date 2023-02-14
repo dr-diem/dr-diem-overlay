@@ -12,7 +12,7 @@ SRC_URI="https://github.com/dr-diem/${PN}/archive/refs/tags/v${PV}.tar.gz -> ${P
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 RESTRICT="strip"
-LICENSE="Simplified BSD"
+LICENSE="Simplified-BSD"
 SLOT="0"
 KEYWORDS="-* ~amd64"
 
