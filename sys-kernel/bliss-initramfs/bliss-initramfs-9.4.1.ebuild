@@ -3,7 +3,7 @@
 
 EAPI=8
 
-PYTHON_COMPAT=( python3_{6..12} )
+PYTHON_COMPAT=( python3_{6..13} )
 inherit python-single-r1
 
 DESCRIPTION="Boot your system's rootfs from Encrypted/OpenZFS."
